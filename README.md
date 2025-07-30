@@ -1,0 +1,1 @@
+# osticker-postinstall
